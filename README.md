@@ -1,3 +1,7 @@
+### Lint Config
+https://gist.github.com/rimatla/a5a2c5dcf831c5744a656cfe81fadf52
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
